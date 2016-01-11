@@ -1,6 +1,6 @@
 # Loghose
 
-Tail a file and send the contents to AWS
+Tail a file and send the contents to AWS. Use in conjunction with [K2ES](https://github.com/xtraclabs/k2es) to pump log messages into Elasticsearch
 
 ## Dependencies
 
