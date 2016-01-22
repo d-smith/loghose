@@ -1,8 +1,4 @@
-rollsvcs/cmd/cmd
-internal/runutils/runroll/runroll
-echo/echo
-cbserver/cbserver
-rollsvcs/rollsvcs
+loghose
 coverage.json
 coverage.html
 mbdemo.xavi
